@@ -1,0 +1,14 @@
+root\
+    d1\
+        d11\
+            d12\
+                f12.txt
+    d2\
+        d21\
+            d22\
+                f21.md
+                d23\
+                    f22.java
+                f23.xml
+            f24.js
+    d3\
